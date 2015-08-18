@@ -8,10 +8,10 @@
 
 ### Size
 
--  ~50.3 MB
+-  ~23.6 MB
 
 ### Example
 
 ```bash
-docker run --rm -it -p 8080:8080 -p 28015:28015 -p 29015:29015 -v /var/rethinkdb/:/data microbox/rethinkdb:latest
+docker run --rm -it -p 8083:8083 -p 8086:8086 -v /var/influxdb/:/data microbox/influxdb:latest
 ```
