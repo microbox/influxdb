@@ -8,7 +8,7 @@
 
 ### Size
 
--  ~23.6 MB
+-  ~21 MB
 
 ### Example
 
